@@ -71,5 +71,6 @@
         </plugin>
       </plugins>
     </pluginManagement>
+    <finalName>jenkins-docker-integration</finalName>
   </build>
 </project>
